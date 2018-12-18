@@ -1,0 +1,16 @@
+
+.work-feature-block {
+  padding: 10px 0;
+  border-top: 1px solid #000000;
+  border-bottom: 1px solid #000000;
+  background-color: #000000;
+}
+
+.work-feature-block-image {
+  display: block;
+  margin: auto;
+  padding: 10px 0;
+}
+div.a {
+    text-align: center;
+}
